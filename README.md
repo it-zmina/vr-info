@@ -1,7 +1,6 @@
 # vr-info
 
-
-## Applications at PC
+## Applications for PC
 
 - scrcpy: https://github.com/Genymobile/scrcpy
 - side quest: https://sidequestvr.com/setup-howto
@@ -44,3 +43,24 @@ sudo sed -i -re 's/([a-z]{2}\.)?archive.ubuntu.com|security.ubuntu.com/old-relea
 
 sudo apt-get update && sudo apt-get dist-upgrade
 ```
+
+### Add an SSH Key to git account
+
+#### Generating public and private keys
+1. Open the terminal app on your computer
+1. Enter the following command, substituting "example@gmail.com" with you email address
+ and "example" with file name for identification content.
+1. `ssh-keygen -t rsa -b 4096 -C "example@gmail.com" -f ~/.ssh/example`
+1. Enter a secure passphrase
+1. To display the contents of your public key enter `cat ~/.ssh/example.pub`
+1. Copy the contents of your key to clipboard 
+
+#### Add an PUBLIC SSH Key to your Github Account
+
+1. Log into your GitHub account.
+1. Click your avatar and choose **Settings**
+1. Select **SSH and GPG keys**
+1. Click **New SSH key**
+1. At form **SSH keys /Add new** enter a title in the field **Title**
+1. At form **SSH keys /Add new** paste your public key into the **Key** field
+1. Click **Add SSH key**
