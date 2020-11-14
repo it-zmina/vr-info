@@ -64,3 +64,8 @@ sudo apt-get update && sudo apt-get dist-upgrade
 1. At form **SSH keys /Add new** enter a title in the field **Title**
 1. At form **SSH keys /Add new** paste your public key into the **Key** field
 1. Click **Add SSH key**
+
+> **_NOTE:_**
+To add SSH protocol (Secure login and file transfer protocol) update your remote link with command
+ `git remote set-url origin git@github.com:it-zmina/vr-info.git`
+The valid link for SSH protocol is at github webpage: Code -> Clone dialog -> SSH tab
