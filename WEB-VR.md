@@ -3,6 +3,7 @@
 ## Examples
 
 - link: https://threejs.org/examples/webxr_vr_ballshooter.html
+- git repository: https://github.com/mrdoob/three.js
 
 ## Installing simple http server
 
