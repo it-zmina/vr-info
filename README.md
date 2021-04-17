@@ -17,7 +17,7 @@
 1. Command `adb devices` should show just connected device at list of attached devices
 
 After connecting VR helm by cable at developer mode for streaming helm content execute command
-`scrcpy -c 1600:1200:0:200`
+`scrcpy -c 1096:1240:174:150`
 
 ## Connect Oculus Quest to PC remotely in developer mode
 
