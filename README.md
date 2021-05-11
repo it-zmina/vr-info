@@ -3,6 +3,7 @@
 ## Applications for PC
 
 - scrcpy: https://github.com/Genymobile/scrcpy
+- WebXR Emulator: https://chrome.google.com/webstore/detail/webxr-api-emulator
 - side quest: https://sidequestvr.com/setup-howto
 - 4K Video Downloader: https://www.4kdownload.com/products/product-videodownloader
 
