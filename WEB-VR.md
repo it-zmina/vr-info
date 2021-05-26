@@ -5,6 +5,10 @@
 - link: https://threejs.org/examples/webxr_vr_ballshooter.html
 - git repository: https://github.com/mrdoob/three.js
 
+## Tools
+- WebXR extension for Chrome: https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje
+- adb -- USB or WiFi remote debugger: `sudo apt intall adb`
+
 ## Installing simple http server
 
 1. Install node.js with npm or yarn
