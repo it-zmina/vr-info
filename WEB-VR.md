@@ -17,7 +17,7 @@
 
 ## Debug Quest VR Browser Content
 1. Enable USB Debugging on Oculus Quest
-    1.   `adb device`
+    1.   `adb devices`
    should show list of attached devices
     1. `scrcpy -c 1096:1240:174:150` should show screen content
 1. Enable Wi-Fi Debugging
