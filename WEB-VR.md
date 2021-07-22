@@ -24,8 +24,8 @@
     1. Determine the IP address for the device
     `adb shell ip route`
     1. Set adb TCP port `adb tcpip 5555`
-    1. Connect device to the debugger `adb connect <ip-address>:5555`
-    1. To stop using the Wi-Fi connection, issue the following ADB command from the OS shell:
+    1. Connect device to the debugger `adb connect <ip-address>:5555` or `adb connect $(adb shell ip route | awk 'NR==1{print $9}')`
+    3. To stop using the Wi-Fi connection, issue the following ADB command from the OS shell:
     `adb disconnect`
 1. Start a Remote Debugging Session with Chrome Developer Tools
     1. On the device, browse to your site in Oculus Browser
