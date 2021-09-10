@@ -51,10 +51,14 @@ sudo apt-get update && sudo apt-get dist-upgrade
 1. Open the terminal app on your computer
 1. Enter the following command, substituting "example@gmail.com" with you email address
  and "example" with file name for identification content.
-1. `ssh-keygen -t rsa -b 4096 -C "example@gmail.com" -f ~/.ssh/example`
+1. `ssh-keygen -t rsa -b 4096 -C "example@gmail.com" -f ~/.ssh/id_example`
 1. Enter a secure passphrase
-1. To display the contents of your public key enter `cat ~/.ssh/example.pub`
+1. To display the contents of your public key enter `cat ~/.ssh/id_example.pub`
 1. Copy the contents of your key to clipboard 
+
+##### For windows only: Add SSH key to the ssh-agent
+1. Open Git-bash and start the ssh-agent in the background: `eval "$(ssh-agent -s)"`
+2. Add your SSH private key to the ssh-agent: `ssh-add  ~/.ssh/id_example`
 
 #### Add an PUBLIC SSH Key to your Github Account
 
