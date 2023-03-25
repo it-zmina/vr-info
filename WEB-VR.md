@@ -33,3 +33,34 @@
     1. Navigate to `chrome://inspect/#devices`
     1. Find your device, which will be followed by a set of Oculus browser tabs currently open on the device.
     1. Click **inspect** link under to the Oculus Browser tab you wish to debug.
+
+## Great WebXR examples
+
+* [https://www.xrdinosaurs.com](https://www.xrdinosaurs.com)
+* [https://aframe.io/a-painter](https://aframe.io/a-painter)
+* [https://arvr.google.com/blocks](https://arvr.google.com/blocks)
+* [https://xrswim.com/education](https://xrswim.com/education)
+
+## Interesting WebXR articles
+    
+* [Augmented reality measure with WebXR and Three.JS](https://medium.com/@annika.wollschlaeger/augmented-reality-measure-with-webxr-and-three-js-a0c8355eb91a)
+* [Immersive Web Weekly](https://immersivewebweekly.com/?fbclid=IwAR1V0JnNJ05K7Zev7V0CtzJ4H6go_bF99kB_zuKvZYlrBxZFAJYedZJI_5E)    
+* [How I sold an $18 million condo in 2 weeks with VR](https://www.inman.com/2020/07/27/how-i-sold-an-18-million-condo-in-2-weeks-with-vr/)    
+* [NHS staff are given some of the best training in the world thanks to technology](https://news.microsoft.com/en-gb/2020/07/29/nhs-staff-are-given-some-of-the-best-training-in-the-world-thanks-to-technology/)    
+* [10 features of VR games that could improve educational VR design](https://www.vrfocus.com/2020/04/10-features-of-vr-games-that-could-improve-educational-vr-design/)    
+
+## Github repos that will help your development
+
+* [https://github.com/jeeliz/jeelizFaceFilter">https://github.com/jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter">https://github.com/jeeliz/jeelizFaceFilter)
+* [https://github.com/ErikSom/threejs-vr-console-debugger">https://github.com/ErikSom/threejs-vr-console-debugger](https://github.com/ErikSom/threejs-vr-console-debugger">https://github.com/ErikSom/threejs-vr-console-debugger)
+* [href="https://github.com/toji/xr-dinosaurs">https://github.com/toji/xr-dinosaurs](href="https://github.com/toji/xr-dinosaurs">https://github.com/toji/xr-dinosaurs)    
+
+## YouTube and Twitter XR videos
+
+* [Networked Hand Tracking](href="https://youtu.be/Akw7fVgmcLc)    
+* [Hand gesture confirmation](https://twitter.com/i/status/1270315700163354624)    
+* [WebXR Voxels - (Minecraft type app)](https://youtu.be/iDv4hUC3XYY)    
+* [Foxr Run! Game](https://youtu.be/RRb-fGjKebI)
+* [VR for training](https://youtu.be/5LLSeJkJHME)
+* [Beat Saber like game](https://twitter.com/i/status/1288430274716598273)
+* [Hand tracking keyboard](https://twitter.com/i/status/1296342759117164544)
